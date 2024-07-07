@@ -11,10 +11,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Really Good Software builds Really Good Teams that build Really Good Software for a Fixed Monthly Price.
+Really Good Software is a remote software agency that loves HTML. We work with Startups, Small/Medium Enterprises, Spin Outs, and E-Commerce Businesses. We're the people behind the following websites and libraries.
 
-We love simplicity. And we love HTML. We've built several tools and websites to share our approach.
-
-- [HTML-First.com](https://html-first.com/) which outlines our approach to creating simple, easy-to-manage codebases.
-- [Tailwind Lite](https://tailwind-lite.com/)
-- [Mini](https://mini-js.com/)
+- [HTML-First.com](https://html-first.com/) - which outlines our approach to creating simple, easy-to-manage codebases.
+- [Tailwind Lite](https://tailwind-lite.com/) - a simple, no-build version of Tailwind.
+- [Mini](https://mini-js.com/) - an extremely easy to use way to add UI Behaviour to your web software.
