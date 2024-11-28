@@ -16,3 +16,5 @@ Really Good Software is a remote software agency that loves HTML. We work with S
 - [HTML-First.com](https://html-first.com/) - which outlines our approach to creating simple, easy-to-manage codebases.
 - [Tailwind Lite](https://tailwind-lite.com/) - a simple, no-build version of Tailwind.
 - [Mini](https://mini-js.com/) - an extremely easy to use way to add UI Behaviour to your web software.
+- [Base Styles](https://base-styles.com/base-styles/) - a lightweight CSS only UI Library.
+- [Better Select](https://better-select.com) - an HTML First alternative to Select2, TomSelect, Choices.js
